@@ -43,10 +43,8 @@
 </div>
   <br/><br/>
 <div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alvinskie&theme=radical&no-bg=true&no-frame=true&column=6&margin-w=15" alt="Trophies" />
-  </a>
+  <h3>🐍 My GitHub Contribution Snake</h3>
+  <img src="https://raw.githubusercontent.com/alvinskie/alvinskie/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </div>
 
 <br/>
