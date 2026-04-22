@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="gif-me.gif" width="100%" alt="Animasi Profil Alvin" />
+  <img src="gif-me" alt="Banner Profile" width="100%">
+  
+  <h2>Mohammad Alvin Firmansyah / alvinskie</h2>
+  <p>Mahasiswa Informatika | Java & C++ Enthusiast | UI/UX Designer</p>
 </div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Alvin%20Firmansyah!&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Clean%20Code%20Enthusiast&descAlignY=55&descSize=20" width="100%" />
+<hr>
   
   <br/><br/>
 
