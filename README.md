@@ -1,7 +1,5 @@
 <div align="center">
-  <video src="https://raw.githubusercontent.com/alvinskie/alvinskie/main/alvinskie-video.mp4" width="100%" controls>
-    Browser kamu tidak mendukung tag video.
-  </video>
+  <img src="gif-me.gif" width="100%" alt="Animasi Profil Alvin" />
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Alvin%20Firmansyah!&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Clean%20Code%20Enthusiast&descAlignY=55&descSize=20" width="100%" />
