@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="gif-me" alt="Banner Profile" width="100%">
+  <img src="gif-me.gif" width="100%" alt="Animasi Profil Alvin" />
   
   <h2>Mohammad Alvin Firmansyah / alvinskie</h2>
   <p>Mahasiswa Informatika | Java & C++ Enthusiast | UI/UX Designer</p>
