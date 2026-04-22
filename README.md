@@ -16,7 +16,7 @@
   <br/><br/>
   
   <a href="[MASUKKAN_URL_LINKEDIN_DISINI]">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="45" alt="LinkedIn" />
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/downloads/fg/brandg-business-in-logo-dsk-v03.png/jcr:content/renditions/brandg-business-in-logo-dsk-v03-2x.png" height="45" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="[MASUKKAN_URL_INSTAGRAM_DISINI]">
