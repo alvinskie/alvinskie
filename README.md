@@ -6,7 +6,7 @@
 </div>
 <hr>
   
-  <br/><br/>
+  <br/>
   
   <div align="center">
   <a href="https://git.io/typing-svg">
@@ -78,6 +78,10 @@
   <img src="https://media.tenor.com/awC20dEhs7sAAAAC/anime-coding.gif" width="220" alt="Anime Coding" />
 
   <br/><br/>
+  
+<div align="center">
+<h3>📫 Let's Connect & Collaborate</h3>
+</div>
   
   <a href="mailto:alvinfirmansyahx9@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" height="45" alt="Email" />
