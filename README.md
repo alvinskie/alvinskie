@@ -1,30 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20My%20Universe!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Code%20%7C%20Design%20%7C%20Innovate&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Alvin%20Firmansyah!&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Clean%20Code%20Enthusiast&descAlignY=55&descSize=20" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="MASUKKAN_URL_LINKEDIN_DISINI">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:alvinfirmansyahx9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="MASUKKAN_URL_INSTAGRAM_DISINI">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="MASUKKAN_URL_FACEBOOK_DISINI">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="MASUKKAN_URL_X_DISINI">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="MASUKKAN_URL_DISCORD_DISINI">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://alvinskie-portfolio.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
   </a>
 
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D93025&center=true&vCenter=true&width=600&lines=Mahasiswa+Informatika+💻;Pengembang+Platform+TUGAS.IN+🚀;Desainer+Grafis+(Tema+Nasionalisme)+🎨;C%2B%2B+%26+Java+Enthusiast+☕" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+💻;C%2B%2B+%26+Java+Enthusiast+☕;Web+%26+Desktop+Developer+🚀;Certified+Junior+Web+Developer+🏆" alt="Typing SVG" />
   </a>
 </div>
 
@@ -44,20 +35,32 @@
     <td width="55%" valign="top">
       <h3>⚡ Tentang Saya</h3>
       <ul>
-        <li>🎓 Menggabungkan logika <b>Informatika</b> dengan kreativitas <b>Desain Grafis</b>.</li>
-        <li>💻 Fokus membangun arsitektur sistem, struktur kode, dan antarmuka UI/UX yang fungsional.</li>
-        <li>🔬 Tertarik pada penerapan matematika/statistik dalam komputasi (seperti <i>Uji Normalitas</i> & <i>Aljabar Linear</i>).</li>
-        <li>🌱 Saat ini sedang merapikan repositori proyek-proyek Java & C++ saya.</li>
+        <li>👋 Halo! Saya <b>Mohammad Alvin Firmansyah</b>, Mahasiswa Rekayasa Perangkat Lunak.</li>
+        <li>💡 Sangat menyukai dunia teknologi, memecahkan masalah logika, dan mengubahnya menjadi kode yang bersih (<i>clean code</i>) dan efisien.</li>
+        <li>💻 Fokus pada pembangunan sistem <i>desktop</i> (C++/Java) serta website dinamis (PHP, JS, Python).</li>
+        <li>🏆 Pemegang sertifikat <b>Junior Web Developer</b> (UBIG & SMKN 1 Jenangan) dan <b>CSCU: Securing Email Communication</b>.</li>
       </ul>
     </td>
     <td width="45%" valign="top" align="center">
       <h3>🛠️ Bahasa & Alat Utama</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cpp,java,git,github,figma,vscode,windows&perline=3" alt="Tech Stack Icons"/>
+        <img src="https://skillicons.dev/icons?i=cpp,java,js,php,python,html,css,mongodb&perline=4" alt="Tech Stack Icons"/>
       </a>
     </td>
   </tr>
 </table>
+
+<br/>
+
+<div align="center">
+  <h3>🚀 Proyek Terkini</h3>
+  <a href="https://github.com/Furry-Indonesia/ManajemenPerumahanV2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Furry-Indonesia&repo=ManajemenPerumahanV2&theme=radical&bg_color=0D1117&hide_border=true" alt="Manajemen Perumahan V2" />
+  </a>
+  <a href="https://github.com/Team-X9/SistemMenumakananRestoran">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Team-X9&repo=SistemMenumakananRestoran&theme=radical&bg_color=0D1117&hide_border=true" alt="Sistem Menu Makanan Restoran" />
+  </a>
+</div>
 
 <br/>
 
@@ -74,5 +77,5 @@
 
 <div align="center">
   <br/>
-  <i>"Menulis kode dengan logika, mendesain antarmuka dengan estetika."</i>
+  <i>"I love clean code and building efficient solutions."</i>
 </div>
