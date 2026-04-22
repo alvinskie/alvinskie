@@ -16,7 +16,7 @@
   <br/><br/>
   
   <a href="[MASUKKAN_URL_LINKEDIN_DISINI]">
-    <img src="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons" height="45" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="45" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="[MASUKKAN_URL_INSTAGRAM_DISINI]">
