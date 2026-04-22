@@ -24,7 +24,7 @@
 <div align="center">
   <h3>🏆 Pencapaian GitHub</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-bg=true&no-frame=true&column=6&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=alvinskie&theme=radical&no-bg=true&no-frame=true&column=6&margin-w=15" alt="Trophies" />
   </a>
 </div>
 
@@ -67,12 +67,12 @@
 <div align="center">
   <h3>📈 Aktivitas & Statistik Kode</h3>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alvinskie&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinskie&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
   
   <br/><br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=ff5e7e&line=ff5e7e&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvinskie&bg_color=0D1117&color=ff5e7e&line=ff5e7e&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 <div align="center">
