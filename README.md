@@ -15,23 +15,23 @@
   
   <br/><br/>
   
-  <a href="[MASUKKAN_URL_LINKEDIN_DISINI]">
+  <a href="https://www.linkedin.com/in/mohammad-alvin-firmansyah-0223723a1/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="45" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="[MASUKKAN_URL_INSTAGRAM_DISINI]">
+  <a href="https://www.instagram.com/lawrance_jk/">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="45" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="[MASUKKAN_URL_FACEBOOK_DISINI]">
+  <a href="https://www.facebook.com/ndak.tau.59899">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" alt="Facebook" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="[MASUKKAN_URL_X_DISINI]">
+  <a href="https://x.com/alvinzeus3">
     <img src="https://cdn.simpleicons.org/x/FFFFFF" height="45" alt="X (Twitter)" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="[MASUKKAN_URL_DISCORD_DISINI]">
+  <a href="https://discord.com/channels/@me">
     <img src="https://cdn.simpleicons.org/discord/5865F2" height="45" alt="Discord" />
   </a>
 
