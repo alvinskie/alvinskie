@@ -11,6 +11,24 @@
   <a href="https://alvinskie-portfolio.web.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
   </a>
+  
+  <br/><br/>
+  
+  <a href="MASUKKAN_URL_LINKEDIN_DISINI">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="MASUKKAN_URL_INSTAGRAM_DISINI">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="MASUKKAN_URL_FACEBOOK_DISINI">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="MASUKKAN_URL_X_DISINI">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="MASUKKAN_URL_DISCORD_DISINI">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 
   <br/><br/>
 
