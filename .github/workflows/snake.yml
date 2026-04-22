@@ -1,34 +1,31 @@
 name: Generate Snake Animation
 
 on:
-  # Berjalan secara otomatis setiap hari pada jam 00:00 (UTC)
   schedule:
     - cron: "0 0 * * *"
-  
-  # Mengizinkan kamu untuk menjalankannya secara manual dari tab Actions
   workflow_dispatch:
+
+# Menambahkan izin agar bot bisa menyimpan gambar ke branch 'output'
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/actions/checkout@v3
+        # TYPO SUDAH DIPERBAIKI DI SINI
+        uses: actions/checkout@v4
 
       - name: Generate the Snake SVG
-        # Ini adalah aksi yang membuat gambarnya
         uses: Platane/snk@v3
         with:
-          # Username GitHub kamu
           github_user_name: alvinskie
-          
-          # Output file yang akan dibuat
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Deploy SVG to Output Branch
-        # Ini akan mengunggah gambar yang sudah jadi ke branch khusus bernama "output"
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
