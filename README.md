@@ -1,47 +1,15 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Alvin%20Firmansyah!&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Clean%20Code%20Enthusiast&descAlignY=55&descSize=20" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="mailto:alvinfirmansyahx9@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="45" alt="Email" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://alvinskie-portfolio.web.app/">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="45" alt="Portfolio Website" />
-  </a>
   
-  <br/><br/>
-  
-  <a href="https://www.linkedin.com/in/mohammad-alvin-firmansyah-0223723a1/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="45" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/lawrance_jk/">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="45" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/ndak.tau.59899">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" alt="Facebook" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/alvinzeus3">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" height="45" alt="X (Twitter)" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/channels/@me">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" height="45" alt="Discord" />
-  </a>
-
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+💻;C%2B%2B+%26+Java+Enthusiast+☕;Web+%26+Desktop+Developer+🚀;Certified+Junior+Web+Developer+🏆" alt="Typing SVG" />
   </a>
 </div>
-  <br/><br/>
+
+<br/>
+
 <div align="center">
   <h3>🐍 My GitHub Contribution Snake</h3>
   <img src="https://raw.githubusercontent.com/alvinskie/alvinskie/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
@@ -94,7 +62,42 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvinskie&bg_color=0D1117&color=ff5e7e&line=ff5e7e&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
+<br/>
+
 <div align="center">
-  <br/>
   <i>"I love clean code and building efficient solutions."</i>
+  
+  <br/><br/>
+  
+  <img src="https://media.tenor.com/awC20dEhs7sAAAAC/anime-coding.gif" width="220" alt="Anime Coding" />
+
+  <br/><br/>
+  
+  <a href="mailto:alvinfirmansyahx9@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="45" alt="Email" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://alvinskie-portfolio.web.app/">
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="45" alt="Portfolio Website" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohammad-alvin-firmansyah-0223723a1/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="45" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/lawrance_jk/">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="45" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/ndak.tau.59899">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" alt="Facebook" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/alvinzeus3">
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" height="45" alt="X (Twitter)" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/channels/@me">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" height="45" alt="Discord" />
+  </a>
 </div>
