@@ -1,8 +1,8 @@
 <div align="center">
   <img src="gif-me.gif" width="100%" alt="Animasi Profil Alvin" />
   
-  <h2>Mohammad Alvin Firmansyah / alvinskie</h2>
-  <p>Mahasiswa Informatika | Java & C++ Enthusiast | UI/UX Designer</p>
+  <h2>Mohammad Alvin Firmansyah / ALVINSKIE</h2>
+  <p>Informatics Engineering Students | Java & C++ Enthusiast | UI/UX Designer</p>
 </div>
 <hr>
   
