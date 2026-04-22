@@ -6,33 +6,41 @@
 
 <div align="center">
   <a href="mailto:alvinfirmansyahx9@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@latest/logos/gmail.svg" height="45" alt="Email" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="45" alt="Email" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://alvinskie-portfolio.web.app/">
-    <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@latest/logos/google-chrome.svg" height="45" alt="Portfolio Website" />
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="45" alt="Portfolio Website" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mohammad-alvin-firmansyah-0223723a1/">
-    <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@latest/logos/linkedin-icon.svg" height="45" alt="LinkedIn" />
+  
+  <br/><br/>
+  
+  <a href="[MASUKKAN_URL_LINKEDIN_DISINI]">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="45" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/lawrance_jk/">
-    <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@latest/logos/instagram-icon.svg" height="45" alt="Instagram" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="[MASUKKAN_URL_INSTAGRAM_DISINI]">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="45" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/ndak.tau.59899">
-    <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@latest/logos/facebook-icon.svg" height="45" alt="Facebook" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="[MASUKKAN_URL_FACEBOOK_DISINI]">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" alt="Facebook" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/alvinzeus3">
-    <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@latest/logos/x.svg" height="45" alt="X (Twitter)" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="[MASUKKAN_URL_X_DISINI]">
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" height="45" alt="X (Twitter)" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/channels/@me">
-    <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@latest/logos/discord-icon.svg" height="45" alt="Discord" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="[MASUKKAN_URL_DISCORD_DISINI]">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" height="45" alt="Discord" />
   </a>
 
+  <br/><br/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+💻;C%2B%2B+%26+Java+Enthusiast+☕;Web+%26+Desktop+Developer+🚀;Certified+Junior+Web+Developer+🏆" alt="Typing SVG" />
+  </a>
+</div>
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
