@@ -6,28 +6,31 @@
 
 <div align="center">
   <a href="mailto:alvinfirmansyahx9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@latest/logos/gmail.svg" height="45" alt="Email" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://alvinskie-portfolio.web.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
+    <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@latest/logos/google-chrome.svg" height="45" alt="Portfolio Website" />
   </a>
-  
-  <br/><br/>
-  
-  <a href="MASUKKAN_URL_LINKEDIN_DISINI">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  &nbsp;&nbsp;
+  <a href="[MASUKKAN_URL_LINKEDIN_DISINI]">
+    <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@latest/logos/linkedin-icon.svg" height="45" alt="LinkedIn" />
   </a>
-  <a href="MASUKKAN_URL_INSTAGRAM_DISINI">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  &nbsp;&nbsp;
+  <a href="[MASUKKAN_URL_INSTAGRAM_DISINI]">
+    <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@latest/logos/instagram-icon.svg" height="45" alt="Instagram" />
   </a>
-  <a href="MASUKKAN_URL_FACEBOOK_DISINI">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  &nbsp;&nbsp;
+  <a href="[MASUKKAN_URL_FACEBOOK_DISINI]">
+    <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@latest/logos/facebook-icon.svg" height="45" alt="Facebook" />
   </a>
-  <a href="MASUKKAN_URL_X_DISINI">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+  &nbsp;&nbsp;
+  <a href="[MASUKKAN_URL_X_DISINI]">
+    <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@latest/logos/x.svg" height="45" alt="X (Twitter)" />
   </a>
-  <a href="MASUKKAN_URL_DISCORD_DISINI">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  &nbsp;&nbsp;
+  <a href="[MASUKKAN_URL_DISCORD_DISINI]">
+    <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@latest/logos/discord-icon.svg" height="45" alt="Discord" />
   </a>
 
   <br/><br/>
@@ -40,7 +43,7 @@
 <br/>
 
 <div align="center">
-  <h3>🏆 Pencapaian GitHub</h3>
+  <h3>🏆 GitHub Trophies</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=alvinskie&theme=radical&no-bg=true&no-frame=true&column=6&margin-w=15" alt="Trophies" />
   </a>
@@ -51,16 +54,16 @@
 <table border="0" cellpadding="10" align="center">
   <tr>
     <td width="55%" valign="top">
-      <h3>⚡ Tentang Saya</h3>
+      <h3>⚡ About Me</h3>
       <ul>
-        <li>👋 Halo! Saya <b>Mohammad Alvin Firmansyah</b>, Mahasiswa Rekayasa Perangkat Lunak.</li>
-        <li>💡 Sangat menyukai dunia teknologi, memecahkan masalah logika, dan mengubahnya menjadi kode yang bersih (<i>clean code</i>) dan efisien.</li>
-        <li>💻 Fokus pada pembangunan sistem <i>desktop</i> (C++/Java) serta website dinamis (PHP, JS, Python).</li>
-        <li>🏆 Pemegang sertifikat <b>Junior Web Developer</b> (UBIG & SMKN 1 Jenangan) dan <b>CSCU: Securing Email Communication</b>.</li>
+        <li>👋 Hello! I am <b>Mohammad Alvin Firmansyah</b>, a Software Engineering Student.</li>
+        <li>💡 Deeply passionate about the tech world, solving logical problems, and transforming them into clean, efficient code.</li>
+        <li>💻 Focused on developing desktop systems (C++/Java) and dynamic websites (PHP, JS, Python).</li>
+        <li>🏆 Certified <b>Junior Web Developer</b> (by UBIG & SMKN 1 Jenangan) and <b>CSCU: Securing Email Communication</b>.</li>
       </ul>
     </td>
     <td width="45%" valign="top" align="center">
-      <h3>🛠️ Bahasa & Alat Utama</h3>
+      <h3>🛠️ Core Tech Stack</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=cpp,java,js,php,python,html,css,mongodb&perline=4" alt="Tech Stack Icons"/>
       </a>
@@ -71,7 +74,7 @@
 <br/>
 
 <div align="center">
-  <h3>🚀 Proyek Terkini</h3>
+  <h3>🚀 Recent Projects</h3>
   <a href="https://github.com/Furry-Indonesia/ManajemenPerumahanV2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Furry-Indonesia&repo=ManajemenPerumahanV2&theme=radical&bg_color=0D1117&hide_border=true" alt="Manajemen Perumahan V2" />
   </a>
@@ -83,7 +86,7 @@
 <br/>
 
 <div align="center">
-  <h3>📈 Aktivitas & Statistik Kode</h3>
+  <h3>📈 Code Stats & Activity</h3>
   
   <img src="https://github-readme-stats.vercel.app/api?username=alvinskie&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinskie&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
