@@ -1,115 +1,170 @@
 <div align="center">
-  <img src="gif-me.gif" width="100%" alt="Animasi Profil Alvin" />
-  
-  <h2>Mohammad Alvin Firmansyah / ALVINSKIE</h2>
-  <p>Informatics Engineering Students | Java & C++ Enthusiast | UI/UX Designer</p>
-</div>
-<hr>
-  
-  <br/>
-  
-  <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student+💻;C%2B%2B+%26+Java+Enthusiast+☕;Web+%26+Desktop+Developer+🚀;Certified+Junior+Web+Developer+🏆" alt="Typing SVG" />
-  </a>
-</div>
+
+<!-- HEADER BANNER -->
+<img src="gif-me.gif" width="100%" alt="Alvin Banner" style="border-radius: 12px;" />
 
 <br/>
+
+<!-- GLOWING NAME -->
+```
+█████╗ ██╗    ██╗   ██╗██╗███╗   ██╗███████╗██╗  ██╗██╗███████╗
+██╔══██╗██║    ██║   ██║██║████╗  ██║██╔════╝██║ ██╔╝██║██╔════╝
+███████║██║    ██║   ██║██║██╔██╗ ██║███████╗█████╔╝ ██║█████╗  
+██╔══██║██║    ╚██╗ ██╔╝██║██║╚██╗██║╚════██║██╔═██╗ ██║██╔══╝  
+██║  ██║███████╗╚████╔╝ ██║██║ ╚████║███████║██║  ██╗██║███████╗
+╚═╝  ╚═╝╚══════╝ ╚═══╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝╚══════╝
+```
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=🎓+Informatics+Engineering+Student;⚙️+C%2B%2B+%26+Java+Systems+Developer;🌐+Full-Stack+Web+Developer;🎨+UI%2FUX+Designer+%26+Creative+Coder;🏆+Certified+Junior+Web+Developer" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- VISITOR BADGE + PROFILE VIEWS -->
+![Profile Views](https://komarev.com/ghpvc/?username=alvinskie&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/alvinskie?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/alvinskie)
+
+</div>
+
+---
 
 <div align="center">
-  <h3>🐍 My GitHub Contribution Snake</h3>
-  <img src="https://raw.githubusercontent.com/alvinskie/alvinskie/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+  <h2>⚡ <code>whoami</code></h2>
 </div>
 
-<br/>
+```yaml
+name        : Mohammad Alvin Firmansyah
+alias       : ALVINSKIE
+location    : Indonesia 🇮🇩
+education   : Informatics Engineering Student
+status      : Open to Collaborations & Opportunities
 
-<table border="0" cellpadding="10" align="center">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>⚡ About Me</h3>
-      <ul>
-        <li>👋 Hello! I am <b>Mohammad Alvin Firmansyah</b>, a Software Engineering Student.</li>
-        <li>💡 Deeply passionate about the tech world, solving logical problems, and transforming them into clean, efficient code.</li>
-        <li>💻 Focused on developing desktop systems (C++/Java) and dynamic websites (PHP, JS, Python).</li>
-        <li>🏆 Certified <b>Junior Web Developer</b> (by UBIG & SMKN 1 Jenangan) and <b>CSCU: Securing Email Communication</b>.</li>
-      </ul>
-    </td>
-    <td width="45%" valign="top" align="center">
-      <h3>🛠️ Core Tech Stack</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cpp,java,js,php,python,html,css,mongodb&perline=4" alt="Tech Stack Icons"/>
-      </a>
-    </td>
-  </tr>
-</table>
+passions:
+  - Building clean, efficient desktop & web systems
+  - Turning logical problems into elegant code
+  - UI/UX Design that blends form with function
 
-<br/>
+certifications:
+  - "Junior Web Developer — UBIG & SMKN 1 Jenangan"
+  - "CSCU: Securing Email Communication"
+
+currently_learning:
+  - Advanced Java Design Patterns
+  - Backend Architecture with Python
+  - Modern Frontend Frameworks
+```
+
+---
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
-  <h3>🚀 Recent Projects</h3>
-  <a href="https://github.com/Furry-Indonesia/ManajemenPerumahanV2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Furry-Indonesia&repo=ManajemenPerumahanV2&theme=radical&bg_color=0D1117&hide_border=true" alt="Manajemen Perumahan V2" />
-  </a>
-  <a href="https://github.com/Team-X9/SistemMenumakananRestoran">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Team-X9&repo=SistemMenumakananRestoran&theme=radical&bg_color=0D1117&hide_border=true" alt="Sistem Menu Makanan Restoran" />
-  </a>
+
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🌐 Web & Markup
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### 🎨 Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+
 </div>
 
-<br/>
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
-  <h3>📈 Code Stats & Activity</h3>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=alvinskie&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinskie&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvinskie&bg_color=0D1117&color=ff5e7e&line=ff5e7e&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+
+[![Manajemen Perumahan V2](https://github-readme-stats.vercel.app/api/pin/?username=Furry-Indonesia&repo=ManajemenPerumahanV2&theme=github_dark&bg_color=0D1117&border_color=00d9ff&icon_color=00d9ff&title_color=00d9ff&text_color=ffffff)](https://github.com/Furry-Indonesia/ManajemenPerumahanV2)
+[![Sistem Menu Makanan Restoran](https://github-readme-stats.vercel.app/api/pin/?username=Team-X9&repo=SistemMenumakananRestoran&theme=github_dark&bg_color=0D1117&border_color=00d9ff&icon_color=00d9ff&title_color=00d9ff&text_color=ffffff)](https://github.com/Team-X9/SistemMenumakananRestoran)
+
 </div>
 
-<br/>
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <i>"I love clean code and building efficient solutions."</i>
-  
-  <br/><br/>
-  
-  <img src="https://media.tenor.com/awC20dEhs7sAAAAC/anime-coding.gif" width="220" alt="Anime Coding" />
 
-  <br/>
-  
-<div align="center">
-<h3>📫 Let's Connect & Collaborate</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=alvinskie&show_icons=true&theme=github_dark&hide_border=false&border_color=00d9ff&icon_color=00d9ff&title_color=00d9ff&text_color=ffffff&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinskie&theme=dark&hide_border=false&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&background=0D1117&border=00d9ff" alt="GitHub Streak" width="49%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinskie&layout=compact&theme=github_dark&hide_border=false&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&bg_color=0D1117&langs_count=8" alt="Top Languages" width="40%" />
+
 </div>
 
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alvinskie/alvinskie/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvinskie&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ff6b35&area=true&area_color=00d9ff&hide_border=false&border_color=00d9ff" alt="Activity Graph" width="100%" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alvinskie&theme=algolia&no-frame=false&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" width="100%" />
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
 <br/>
-  
-  <a href="mailto:alvinfirmansyahx9@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="45" alt="Email" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://alvinskie-portfolio.web.app/">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="45" alt="Portfolio Website" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mohammad-alvin-firmansyah-0223723a1/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="45" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/lawrance_jk/">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="45" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/ndak.tau.59899">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" alt="Facebook" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/alvinzeus3">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" height="45" alt="X (Twitter)" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/channels/@me">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" height="45" alt="Discord" />
-  </a>
+
+> *"I love clean code and building efficient solutions."*
+> — ALVINSKIE
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Gmail-alvinfirmansyahx9%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvinfirmansyahx9@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-alvinskie--portfolio.web.app-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alvinskie-portfolio.web.app/)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad_Alvin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-alvin-firmansyah-0223723a1/)
+[![Instagram](https://img.shields.io/badge/Instagram-@lawrance__jk-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lawrance_jk/)
+[![X](https://img.shields.io/badge/X-@alvinzeus3-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/alvinzeus3)
+[![Facebook](https://img.shields.io/badge/Facebook-Alvin-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ndak.tau.59899)
+[![Discord](https://img.shields.io/badge/Discord-ALVINSKIE-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+
+<br/><br/>
+
+<img src="https://media.tenor.com/awC20dEhs7sAAAAC/anime-coding.gif" width="200" alt="Coding" />
+
+<br/><br/>
+
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
+
 </div>
