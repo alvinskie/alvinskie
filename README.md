@@ -91,8 +91,30 @@ currently_learning:
 
 <div align="center">
 
-[![Manajemen Perumahan V2](https://github-readme-stats.vercel.app/api/pin/?username=Furry-Indonesia&repo=ManajemenPerumahanV2&theme=github_dark&bg_color=0D1117&border_color=00d9ff&icon_color=00d9ff&title_color=00d9ff&text_color=ffffff)](https://github.com/Furry-Indonesia/ManajemenPerumahanV2)
-[![Sistem Menu Makanan Restoran](https://github-readme-stats.vercel.app/api/pin/?username=Team-X9&repo=SistemMenumakananRestoran&theme=github_dark&bg_color=0D1117&border_color=00d9ff&icon_color=00d9ff&title_color=00d9ff&text_color=ffffff)](https://github.com/Team-X9/SistemMenumakananRestoran)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Furry-Indonesia/ManajemenPerumahanV2">
+        <img src="https://img.shields.io/badge/🏠_Manajemen_Perumahan_V2-0D1117?style=for-the-badge&logo=github&logoColor=00d9ff&color=0D1117" />
+        <br/><br/>
+        <img src="https://img.shields.io/github/stars/Furry-Indonesia/ManajemenPerumahanV2?style=flat-square&color=00d9ff&labelColor=0D1117&label=⭐ Stars" />
+        <img src="https://img.shields.io/github/forks/Furry-Indonesia/ManajemenPerumahanV2?style=flat-square&color=ff6b35&labelColor=0D1117&label=🍴 Forks" />
+        <br/>
+        <sub>Sistem manajemen perumahan berbasis desktop</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Team-X9/SistemMenumakananRestoran">
+        <img src="https://img.shields.io/badge/🍽️_Sistem_Menu_Restoran-0D1117?style=for-the-badge&logo=github&logoColor=00d9ff&color=0D1117" />
+        <br/><br/>
+        <img src="https://img.shields.io/github/stars/Team-X9/SistemMenumakananRestoran?style=flat-square&color=00d9ff&labelColor=0D1117&label=⭐ Stars" />
+        <img src="https://img.shields.io/github/forks/Team-X9/SistemMenumakananRestoran?style=flat-square&color=ff6b35&labelColor=0D1117&label=🍴 Forks" />
+        <br/>
+        <sub>Sistem manajemen menu makanan restoran</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -103,11 +125,11 @@ currently_learning:
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=alvinskie&show_icons=true&theme=github_dark&hide_border=false&border_color=00d9ff&icon_color=00d9ff&title_color=00d9ff&text_color=ffffff&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinskie&theme=dark&hide_border=false&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&background=0D1117&border=00d9ff" alt="GitHub Streak" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=alvinskie&theme=dark&hide_border=false&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&background=0D1117&border=00d9ff" alt="GitHub Streak" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinskie&layout=compact&theme=github_dark&hide_border=false&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&bg_color=0D1117&langs_count=8" alt="Top Languages" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinskie&layout=donut&theme=github_dark&hide_border=false&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&bg_color=0D1117&langs_count=8" alt="Top Languages" width="40%" />
 
 </div>
 
