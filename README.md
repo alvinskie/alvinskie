@@ -151,14 +151,6 @@ currently_learning:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alvinskie&theme=algolia&no-frame=false&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" width="100%" />
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
