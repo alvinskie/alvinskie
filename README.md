@@ -123,8 +123,6 @@ currently_learning:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alvinskie&show_icons=true&theme=github_dark&hide_border=false&border_color=00d9ff&icon_color=00d9ff&title_color=00d9ff&text_color=ffffff&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=alvinskie&theme=dark&hide_border=false&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&background=0D1117&border=00d9ff" alt="GitHub Streak" width="49%" />
 
 <br/><br/>
