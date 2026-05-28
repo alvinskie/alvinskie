@@ -128,9 +128,6 @@ currently_learning:
 <img src="https://streak-stats.demolab.com/?user=alvinskie&theme=dark&hide_border=false&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&background=0D1117&border=00d9ff" alt="GitHub Streak" width="49%" />
 
 <br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinskie&layout=donut&theme=github_dark&hide_border=false&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&bg_color=0D1117&langs_count=8" alt="Top Languages" width="40%" />
-
 </div>
 
 ---
