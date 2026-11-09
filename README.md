@@ -177,3 +177,6 @@ currently_learning:
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
 
 </div>
+## Belajar GitHub
+
+Ini adalah percobaan untuk mendapatkan achievement YOLO.
