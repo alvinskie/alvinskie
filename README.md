@@ -1,99 +1,120 @@
 <div align="center">
 
-# Mohammad Alvin Firmansyah
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d4f,100:00d9ff&height=200&section=header&text=Mohammad%20Alvin%20Firmansyah&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=ALVINSKIE%20%C2%B7%20Informatics%20Engineering%20Student&descSize=16&descAlignY=58&descColor=c9d1d9" width="100%" alt="Header" />
 
-**Informatics Engineering Student · Full-Stack Developer · UI/UX Designer**
-
-Building clean, efficient desktop & web systems from Indonesia 🇮🇩
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=00D9FF&center=true&vCenter=true&width=620&lines=C%2B%2B+%26+Java+Systems+Developer;Full-Stack+Web+Developer;UI%2FUX+Designer+%26+Creative+Coder;Turning+logic+into+elegant+code" alt="Typing SVG" />
+</a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-alvinskie--portfolio.web.app-0d1117?style=flat-square&logo=googlechrome&logoColor=white)](https://alvinskie-portfolio.web.app/)
-[![Email](https://img.shields.io/badge/Email-alvinfirmansyahx9@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:alvinfirmansyahx9@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad_Alvin-0d1117?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-alvin-firmansyah-0223723a1/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=0d1117)](https://alvinskie-portfolio.web.app/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00d9ff&color=0d1117)](mailto:alvinfirmansyahx9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d9ff&color=0d1117)](https://www.linkedin.com/in/mohammad-alvin-firmansyah-0223723a1/)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00d9ff&color=0d1117)](https://www.instagram.com/lawrance_jk/)
+[![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00d9ff&color=0d1117)](https://x.com/alvinzeus3)
 
 </div>
 
----
+<br/>
 
-## About
+<div align="center">
 
-I enjoy turning logical problems into elegant code and designing interfaces where form meets function. Currently open to collaborations and new opportunities.
+### `// about me`
 
-- 🎓 Informatics Engineering student
-- ⚙️ Systems development with C++ and Java
-- 🌐 Full-stack web development
-- 🎨 UI/UX design and creative coding
+</div>
 
-## Certifications
+<table align="center">
+<tr>
+<td width="55%" valign="top">
 
-- **Junior Web Developer** — UBIG & SMKN 1 Jenangan
-- **CSCU: Securing Email Communication**
+I'm an **Informatics Engineering student** from Indonesia 🇮🇩 who loves building clean, efficient desktop and web systems, and designing interfaces where form meets function.
 
-## Currently Learning
+<br/>
 
+**🟢 Status** &nbsp;·&nbsp; Open to collaborations & opportunities
+**📍 Location** &nbsp;·&nbsp; Indonesia
+**🎯 Focus** &nbsp;·&nbsp; Systems, web & UI/UX
+
+</td>
+<td width="45%" valign="top">
+
+**🏆 Certifications**
+- Junior Web Developer — *UBIG & SMKN 1 Jenangan*
+- CSCU: Securing Email Communication
+
+**🌱 Currently Learning**
 - Advanced Java Design Patterns
 - Backend Architecture with Python
 - Modern Frontend Frameworks
 
----
+</td>
+</tr>
+</table>
 
-## Tech Stack
-
-**Languages**
-&nbsp;
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=777BB4)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-
-**Web**
-&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
-
-**Database & Tools**
-&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-
-**Design**
-&nbsp;
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-0d1117?style=flat-square&logo=adobexd&logoColor=FF61F6)
-
----
-
-## Featured Projects
-
-| Project | Description | |
-| :-- | :-- | :--: |
-| [**Manajemen Perumahan V2**](https://github.com/Furry-Indonesia/ManajemenPerumahanV2) | Sistem manajemen perumahan berbasis desktop | ![Stars](https://img.shields.io/github/stars/Furry-Indonesia/ManajemenPerumahanV2?style=flat-square&color=0d1117&labelColor=0d1117&label=★) |
-| [**Sistem Menu Restoran**](https://github.com/Team-X9/SistemMenumakananRestoran) | Sistem manajemen menu makanan restoran | ![Stars](https://img.shields.io/github/stars/Team-X9/SistemMenumakananRestoran?style=flat-square&color=0d1117&labelColor=0d1117&label=★) |
-
----
-
-## GitHub Stats
+<br/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=alvinskie&theme=dark&hide_border=true&background=0D1117&stroke=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" width="60%" />
+### `// tech stack`
+
+<img src="https://skillicons.dev/icons?i=cpp,java,js,php,py&theme=dark" alt="Languages" />
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,mongodb,mysql&theme=dark" alt="Web and Database" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,xd&theme=dark" alt="Tools and Design" />
 
 </div>
 
----
-
-## Connect
-
-[![Instagram](https://img.shields.io/badge/Instagram-@lawrance__jk-0d1117?style=flat-square&logo=instagram&logoColor=E4405F)](https://www.instagram.com/lawrance_jk/)
-[![X](https://img.shields.io/badge/X-@alvinzeus3-0d1117?style=flat-square&logo=x&logoColor=white)](https://x.com/alvinzeus3)
+<br/>
 
 <div align="center">
 
-<sub><i>"I love clean code and building efficient solutions."</i></sub>
+### `// featured projects`
+
+<a href="https://github.com/Furry-Indonesia/ManajemenPerumahanV2">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Furry-Indonesia&repo=ManajemenPerumahanV2&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&border_color=21262d&hide_border=false" alt="Manajemen Perumahan V2" />
+</a>
+<a href="https://github.com/Team-X9/SistemMenumakananRestoran">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Team-X9&repo=SistemMenumakananRestoran&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&border_color=21262d&hide_border=false" alt="Sistem Menu Restoran" />
+</a>
+
+<sub>🏠 Sistem manajemen perumahan berbasis desktop &nbsp;&nbsp;·&nbsp;&nbsp; 🍽️ Sistem manajemen menu makanan restoran</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### `// github stats`
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alvinskie&show_icons=true&hide_border=false&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&border_color=21262d&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinskie&layout=compact&hide_border=false&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_color=21262d" alt="Top Languages" />
+
+<img width="60%" src="https://streak-stats.demolab.com/?user=alvinskie&theme=dark&hide_border=false&background=0D1117&border=21262d&stroke=21262d&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### `// contribution graph`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alvinskie&bg_color=0D1117&color=c9d1d9&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true" width="100%" alt="Activity Graph" />
+
+<img src="https://raw.githubusercontent.com/alvinskie/alvinskie/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> *"I love clean code and building efficient solutions."*
+> **— ALVINSKIE**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0b3d4f,100:0d1117&height=110&section=footer" width="100%" alt="Footer" />
 
 </div>
