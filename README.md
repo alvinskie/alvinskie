@@ -116,18 +116,6 @@
 </div>
 
 <br/>
-
-<!-- SECTION: ACTIVITY & CONTRIBUTION -->
-### `05` // CONTRIBUTION ACTIVITY
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvinskie&bg_color=0D1117&color=94a3b8&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=false&border_color=30363d" width="100%" alt="Activity Graph" />
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/alvinskie/alvinskie/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
-</div>
-
-<br/>
-
 <!-- FOOTER -->
 <div align="center">
   <blockquote>
