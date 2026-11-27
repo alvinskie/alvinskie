@@ -12,7 +12,7 @@
 
 <!-- SOCIAL BADGES (Ganti link # dengan URL profil aslimu) -->
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF" alt="Portfolio" /></a>
+  <a href="https://alvinskie-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF" alt="Portfolio" /></a>
   <a href="mailto:alvinfirmansyahx9@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/mohammad-alvin-firmansyah-0223723a1/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/alvinskiex9/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00D9FF" alt="Instagram" /></a>
